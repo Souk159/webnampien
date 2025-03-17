@@ -56,7 +56,7 @@ export const socialIcons = [
 export const carouselData = [
   {
     img: "../assets/img/nampien1.png",
-    title: "Discover A Brand Luxurious Hotel",
+    title: "cover A Brand Luxurious Hotel",
     subtitle: "luxury living",
 
     btn2: "Book Room",
